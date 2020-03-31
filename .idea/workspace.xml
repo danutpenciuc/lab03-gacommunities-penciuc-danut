@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ad85b3f-282c-4c78-ab61-5fd880b5054f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Communities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/community.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/dolphins.gml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/football.gml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/karate.gml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/krebs.gml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/start.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\AN 2\AI\Lab3\Communities" />
+        <option value="F:\AN 2\AI\Lab3\Communities\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTdSV1mXifYGe7o5vt7tz4sr2R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TestFolder" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mihalutf\PycharmProjects\Communities\main" />
+      <recent name="C:\Users\mihalutf\PycharmProjects\Communities\start" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.start (1)">
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Communities" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Communities" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mihalutf\PycharmProjects\Communities\main\start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ad85b3f-282c-4c78-ab61-5fd880b5054f" name="Default Changelist" comment="" />
+      <created>1584867018311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584867018311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1088" y="108" key="#Inspections" timestamp="1584870993545">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-1088" y="108" key="#Inspections/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584870993545" />
+    <state x="-911" y="253" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584870724086">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-911" y="253" key="#com.intellij.fileTypes.FileTypeChooser/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584870724086" />
+    <state x="-922" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584870686821">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-922" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584870686821" />
+    <state x="-900" y="205" key="FileChooserDialogImpl" timestamp="1584957187742">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-900" y="205" key="FileChooserDialogImpl/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584957187742" />
+    <state width="1339" height="179" key="GridCell.Tab.0.bottom" timestamp="1584887228693">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.bottom/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584887228693" />
+    <state width="1339" height="179" key="GridCell.Tab.0.center" timestamp="1584887228693">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.center/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584887228693" />
+    <state width="1339" height="179" key="GridCell.Tab.0.left" timestamp="1584887228693">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.left/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584887228693" />
+    <state width="1339" height="179" key="GridCell.Tab.0.right" timestamp="1584887228693">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.right/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584887228693" />
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1584885292346">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584885292346" />
+    <state width="1339" height="223" key="GridCell.Tab.1.center" timestamp="1584885292346">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.center/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584885292346" />
+    <state width="1339" height="223" key="GridCell.Tab.1.left" timestamp="1584885292346">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.left/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584885292346" />
+    <state width="1339" height="223" key="GridCell.Tab.1.right" timestamp="1584885292346">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.right/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584885292346" />
+    <state x="-1179" y="92" key="SettingsEditor" timestamp="1584867682541">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-1179" y="92" key="SettingsEditor/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584867682541" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584867045661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584867045661" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/repository.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
